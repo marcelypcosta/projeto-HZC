@@ -12,7 +12,7 @@
 <hr>
 <p>Projeto oferecido para o aluno Alura com objetivo em desenvolver mais seu conhecimento em flexbox e grid no CSS.
     
-    É uma página mais voltada para skatistas, na qual possui pinturas e camisas à venda, mostra os melhores/mais visitados picos por skatistas e vídeos postado pelos próprios integrantes do site.
+    É uma página mais voltada para skatistas, na qual possui pinturas e camisas à venda, mostra os melhores/mais visitados picos por skatistas e vídeos postado pelos próprios integrantes do site.</p>
 
 <h3 id="linguagens">Linguagens utilizadas</h3>
 <hr>
